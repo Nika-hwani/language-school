@@ -1,0 +1,360 @@
+body {
+    margin-top: -10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    font-family: sans-serif;
+    background-color: #CBF2A5;
+}
+
+.fix img{
+    width: 100px;
+    position: fixed;
+    box-shadow: 5px 3px 15px 0px black ;
+}
+.fix img:hover{
+    width: 110px;
+    transition: 3s width linear;
+}
+
+header{
+    text-align: center;
+    background-image:linear-gradient(to right, #308934, #42BC48, #92D64E, #42BC48, #308934) ;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #016506;
+}
+
+nav a{
+    text-decoration: none;
+    color: #2FAF35;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: #92D64E;
+    transition: 1.5s color linear;
+}
+
+.a {
+    font-family: cursive;
+    color: #A4ED5A;
+    text-decoration: none;
+}
+
+.try h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.try h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+
+}
+
+.try {
+    text-align: center;
+    color: #016506;
+}
+
+h1{
+    text-align: center; 
+    color: #92D64E;
+    background-color: #016506;
+}
+
+.English img{
+    width: 169px;
+    height: 120px;
+    background: url(newFile-2.png);
+    margin-left: 10px;
+}
+
+.English h2{
+    text-align: center;
+    color: #016506;
+}
+
+.English p{
+    margin-left: 10px;
+}
+
+.English h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.English h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+}
+
+.Korean img{
+    width: 169px;
+    height: 120px;
+    background: url(studykorea.png);
+}
+
+.Korean h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Korean h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.Korean h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+}
+
+.French img{
+    width: 169px;
+    height: 120px;
+    background: url(images.jpg);
+}
+
+.French h2{
+    text-align: center;
+    color: #016506;
+}
+
+.French h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.French h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+}
+
+.Arabic img{
+    width: 169px;
+    height: 120px;
+    background: url(UAE-flag-2-1000x750-1.png);
+}
+
+.Arabic h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Arabic h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.Arabic h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+}
+
+.language1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.language1 h2{
+    font-size: 20px;
+}
+
+.Chris{
+    border-radius: 70px;
+}
+
+.Chris img{
+    opacity: 0.5;
+}
+
+.Chris img:hover{
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+
+.Chris h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Chris:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+.Jiyoo{
+    border-radius: 70px;
+}
+
+.Jiyoo img{
+    opacity: 0.5;
+}
+
+.Jiyoo img:hover{
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Jiyoo:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+.Jiyoo h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Adriana h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Adriana img{
+    opacity: 0.5;
+}
+
+.Adriana img:hover{
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Adriana{
+    border-radius: 70px;
+}
+
+.Adriana:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+
+.Burhan h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Burhan img{
+    opacity: 0.5;
+}
+
+.Burhan img:hover{
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Burhan{
+    border-radius: 70px;
+}
+
+.Burhan:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+
+.teachers1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.fotoz img{
+    display: inline;
+    border-radius: 40px;
+    border: solid 7px #016506;
+}
+
+.texz{
+    display: inline;
+    text-align: center;
+}
+
+.Aboutschool1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.Ourschool{
+    color: #008E07;
+    text-align: center;
+    justify-content: center;
+}
+
+footer{
+    height: 200px;
+    padding-bottom: 20px;
+    color: #CBF2A5;
+    background-image:linear-gradient(to right, #308934, #42BC48, #92D64E, #42BC48, #308934) ;
+}
+
+.asa img{
+    display: inline;
+    opacity: 0.5;
+}
+
+.asa img:hover{
+    display: inline;
+    opacity: 1;
+    transition: 2s opacity linear;
+}
+
+.yuo img{
+    opacity: 1;
+}
+
+.sreak{
+    float: right;
+    margin-top: -20px;
+}
