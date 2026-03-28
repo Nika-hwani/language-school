@@ -1,0 +1,256 @@
+body {
+    margin-top: -10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    font-family: sans-serif;
+    background-color: #CBF2A5;
+}
+
+header{
+    text-align: center;
+    background-image:linear-gradient(to right, #308934, #42BC48, #92D64E, #42BC48, #308934) ;
+}
+
+.fix img{
+    width: 100px;
+    position: fixed;
+    box-shadow: 5px 3px 15px 0px black ;
+}
+
+.fix img:hover{
+    width: 110px;
+    transition: 3s width linear;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #016506;
+}
+
+nav a{
+    text-decoration: none;
+    color: #2FAF35;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: #92D64E;
+    transition: 1.5s color linear;
+}
+
+.a {
+    font-family: cursive;
+    color: #A4ED5A;
+    text-decoration: none;
+}
+
+.try h3{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+}
+
+.try h3:hover{
+    display: inline;
+    background-color: #92D64E;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 20px 0px #016506;
+
+}
+
+.try {
+    text-align: center;
+    color: #016506;
+}
+
+h1{
+    text-align: center; 
+    color: #92D64E;
+    background-color: #016506;
+}
+
+
+.Chris{
+    border-radius: 70px;
+}
+
+.Chris img{
+    display:block;
+    margin:0 auto;
+    opacity: 0.5;
+}
+
+.Chris img:hover{
+    display:block;
+    margin:0 auto;
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Chris p{
+    text-align: center;
+}
+
+.Chris h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Chris:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+.Harry{
+    border-radius: 70px;
+}
+
+.Harry img{
+    display:block;
+    margin:0 auto;
+    opacity: 0.5;
+}
+
+.Harry img:hover{
+    display:block;
+    margin:0 auto;
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Harry p{
+    text-align: center;
+}
+
+.Harry:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+.Harry h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Olivia h2{
+    text-align: center;
+    color: #016506;
+}
+
+.Olivia img{
+    display:block;
+    margin:0 auto;
+    opacity: 0.5;
+}
+
+.Olivia img:hover{
+    display:block;
+    margin:0 auto;
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.Olivia p{
+    text-align: center;
+}
+
+.Olivia{
+    border-radius: 70px;
+}
+
+.Olivia:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+
+.George h2{
+    text-align: center;
+    color: #016506;
+}
+
+.George img{
+    display:block;
+    margin:0 auto;
+    opacity: 0.5;
+}
+
+.George img:hover{
+    display:block;
+    margin:0 auto;
+    opacity: 1;
+    transition: 1.5s opacity linear;
+}
+
+.George p{
+    text-align: center;
+}
+
+.George{
+    border-radius: 70px;
+}
+
+.George:hover{
+    box-shadow: 10px 5px 20px 0px #92D64E;
+}
+
+
+.teachers1{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.fotoz img{
+    display: inline;
+    border-radius: 40px;
+    border: solid 7px #016506;
+}
+
+.texz{
+    display: inline;
+    text-align: left;
+}
+
+.perspectives1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.Ourschool{
+    color: #008E07;
+    text-align: center;
+    justify-content: center;
+}
+
+footer{
+    height: 200px;
+    padding-bottom: 20px;
+    color: #CBF2A5;
+    background-image:linear-gradient(to right, #308934, #42BC48, #92D64E, #42BC48, #308934) ;
+}
+
+.asa img{
+    display: inline;
+    opacity: 0.5;
+}
+
+.asa img:hover{
+    display: inline;
+    opacity: 1;
+    transition: 2s opacity linear;
+}
+
+.sreak{
+    float: right;
+    margin-top: -20px;
+}
